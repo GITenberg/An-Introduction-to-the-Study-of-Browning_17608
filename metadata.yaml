@@ -1,0 +1,29 @@
+_repo: An-Introduction-to-the-Study-of-Browning_17608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+description: 'General characteristics. -- Characteristics of the poems. -- Appendix:
+  I.A bibliography of Robert Browning (p. [204]-213) II. Reprint of discarded prefaces
+  to the first editions of some of Browning''s works (p. 214-217) -- Index to poems.'
+gutenberg_issued: '2006-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browning, Robert, 1812-1889 -- Criticism and interpretation'
+- !lcc 'PR'
+title: An Introduction to the Study of Browning
+url: http://www.gutenberg.org/ebooks/17608
