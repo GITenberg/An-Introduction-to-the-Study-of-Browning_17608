@@ -14,6 +14,8 @@ creator:
 description: 'General characteristics. -- Characteristics of the poems. -- Appendix:
   I.A bibliography of Robert Browning (p. [204]-213) II. Reprint of discarded prefaces
   to the first editions of some of Browning''s works (p. 214-217) -- Index to poems.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17608#An-Introduction-to-the-Study-of-Browning
 gutenberg_issued: '2006-01-25'
 gutenberg_type: Text
 identifiers:
